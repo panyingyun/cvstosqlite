@@ -1,0 +1,1 @@
+cvstosqlite.exe   --csv  common.csv  --db  sqlite.db
